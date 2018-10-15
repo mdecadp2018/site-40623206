@@ -3,8 +3,8 @@
 
 https://mdecadp2018.github.io/site-40623206/content/index.html
 
-個人倉儲 :https://github.com/mdecadp2018/site-40623206
+個人倉儲 : https://github.com/mdecadp2018/site-40623206
 
-投影片: https://mdecadp2018.github.io/site-40623206/reveal/index.html#/
+投影片 : https://mdecadp2018.github.io/site-40623206/reveal/index.html#/
 
-Blog :
+Blog : https://mdecadp2018.github.io/site-40623206/blog/index.html
