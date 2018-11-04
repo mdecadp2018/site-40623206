@@ -24,8 +24,32 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
-<v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20180827201621.11"><vh>Week1</vh>
+<v t="leo.20180827201621.12"><vh>w1</vh></v>
+</v>
+<v t="leo.20181104213127.1"><vh>Week2</vh>
+<v t="leo.20181104213127.2"><vh>w2</vh></v>
+</v>
+<v t="leo.20181104213132.1"><vh>Week3</vh>
+<v t="leo.20181104213132.2"><vh>w3</vh></v>
+</v>
+<v t="leo.20181104213137.1"><vh>Week4</vh>
+<v t="leo.20181104213137.2"><vh>w4</vh></v>
+</v>
+<v t="leo.20181104213139.1"><vh>Week5</vh>
+<v t="leo.20181104213139.2"><vh>w5</vh></v>
+</v>
+<v t="leo.20181104213140.1"><vh>Week6</vh>
+<v t="leo.20181104213140.2"><vh>w6</vh></v>
+</v>
+<v t="leo.20181104213142.1" a="E"><vh>Week7</vh>
+<v t="leo.20181104213142.2"><vh>w7</vh></v>
+</v>
+<v t="leo.20181104213143.1" a="E"><vh>Week8</vh>
+<v t="leo.20181104213143.2"><vh>w8</vh></v>
+</v>
+<v t="leo.20181104213114.1"><vh>快捷鍵</vh>
+<v t="leo.20181104213114.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
@@ -129,7 +153,7 @@ vertical: body pane on the botton</t>
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40623206](https://mdecadp2018.github.io/site-40623206/blog/index.html)
 &lt;/small&gt;
 
 [2018 Fall 分組網誌](./../blog/index.html)
@@ -145,15 +169,11 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180827201621.12"># 投影片快捷鍵
+<t tx="leo.20180827201621.12"># Week1
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
+* What is Onshape ?
+* Why Onshape ?
+* 如何利用 p37 中的 git 建立個人的 Github Pages 網站
 </t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
@@ -326,5 +346,115 @@ make.start()
 
 						
 </t>
+<t tx="leo.20181104213114.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104213114.2"># 投影片快捷鍵
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20181104213127.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104213127.2"># Week2
+
+* ShareX的取圖設定
+* 領取個人倉儲
+* Leo設定網站圖片外框的縣粗及顏色</t>
+<t tx="leo.20181104213132.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104213132.2"># Week3
+
+* 中秋節</t>
+<t tx="leo.20181104213137.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104213137.2"># Week4
+
+* 學期使用Onshpae並繪製簡單圖形
+* OnshapeWeek1</t>
+<t tx="leo.20181104213139.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104213139.2"># Week5
+
+* Pyslvs的介紹
+* OnshapeWeek2
+</t>
+<t tx="leo.20181104213140.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104213140.2"># Week6
+
+* 將隨身系統中的flaskapp.py改版至最新
+* 身為工程師，不只要會解答，還要會問問題</t>
+<t tx="leo.20181104213142.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104213142.2"># Week7
+
+* 發生github無法登入的問題，找出方法並解決和探討問題
+* 如何利用 Github 近端與區域網路中的 Fossil SCM， 保全輔助設計的資料</t>
+<t tx="leo.20181104213143.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104213143.2"># Week8
+
+* 說明機電資整合設計專案流程所需的相關套件運用與技術</t>
 </tnodes>
 </leo_file>
