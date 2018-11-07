@@ -42,11 +42,14 @@
 <v t="leo.20181104213140.1"><vh>Week6</vh>
 <v t="leo.20181104213140.2"><vh>w6</vh></v>
 </v>
-<v t="leo.20181104213142.1" a="E"><vh>Week7</vh>
+<v t="leo.20181104213142.1"><vh>Week7</vh>
 <v t="leo.20181104213142.2"><vh>w7</vh></v>
 </v>
-<v t="leo.20181104213143.1" a="E"><vh>Week8</vh>
-<v t="leo.20181104213143.2"><vh>w8</vh></v>
+<v t="leo.20181104213143.1"><vh>Week8</vh>
+<v t="leo.20181107210956.1"><vh>Week8</vh></v>
+</v>
+<v t="leo.20181107211050.1" a="E"><vh>Week9</vh>
+<v t="leo.20181107211050.2"><vh>Week9</vh></v>
 </v>
 <v t="leo.20181104213114.1"><vh>快捷鍵</vh>
 <v t="leo.20181104213114.2"><vh>投影片快捷鍵</vh></v>
@@ -378,7 +381,9 @@ make.start()
 
 * ShareX的取圖設定
 * 領取個人倉儲
-* Leo設定網站圖片外框的縣粗及顏色</t>
+* Leo設定網站圖片外框的縣粗及顏色
+
+</t>
 <t tx="leo.20181104213132.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -390,7 +395,9 @@ make.start()
 </t>
 <t tx="leo.20181104213132.2"># Week3
 
-* 中秋節</t>
+* 中秋節
+
+</t>
 <t tx="leo.20181104213137.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -403,7 +410,9 @@ make.start()
 <t tx="leo.20181104213137.2"># Week4
 
 * 學期使用Onshpae並繪製簡單圖形
-* OnshapeWeek1</t>
+* OnshapeWeek1
+
+</t>
 <t tx="leo.20181104213139.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -430,7 +439,9 @@ make.start()
 <t tx="leo.20181104213140.2"># Week6
 
 * 將隨身系統中的flaskapp.py改版至最新
-* 身為工程師，不只要會解答，還要會問問題</t>
+* 身為工程師，不只要會解答，還要會問問題
+
+</t>
 <t tx="leo.20181104213142.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -443,7 +454,9 @@ make.start()
 <t tx="leo.20181104213142.2"># Week7
 
 * 發生github無法登入的問題，找出方法並解決和探討問題
-* 如何利用 Github 近端與區域網路中的 Fossil SCM， 保全輔助設計的資料</t>
+* 如何利用 Github 近端與區域網路中的 Fossil SCM， 保全輔助設計的資料
+
+</t>
 <t tx="leo.20181104213143.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -453,8 +466,21 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181104213143.2"># Week8
+<t tx="leo.20181107210956.1"># Week8
 
 * 說明機電資整合設計專案流程所需的相關套件運用與技術</t>
+<t tx="leo.20181107211050.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181107211050.2"># Week9
+
+* 期末專題分組
+* 自評成績</t>
 </tnodes>
 </leo_file>

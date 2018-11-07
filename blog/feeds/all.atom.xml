@@ -1,19 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-10-22T11:00:00+08:00</updated><entry><title>Week 7</title><link href="./2018-Fall-Project-Blog7.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>40623206</name></author><id>tag:None,2018-10-22:./2018-Fall-Project-Blog7.html</id><summary type="html">&lt;p&gt;Github發生問題&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623206/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623206/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623206/blog/</id><updated>2018-11-05T11:00:00+08:00</updated><entry><title>Week 9</title><link href="https://mdecadp2018.github.io/site-40623206/blog/2018-Fall-Project-Blog9.html" rel="alternate"></link><published>2018-11-05T11:00:00+08:00</published><updated>2018-11-05T11:00:00+08:00</updated><author><name>40623206</name></author><id>tag:mdecadp2018.github.io,2018-11-05:/site-40623206/blog/2018-Fall-Project-Blog9.html</id><summary type="html">&lt;p&gt;期中考&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;期中考&lt;/p&gt;
+
+
+&lt;h2&gt;課程內容&lt;/h2&gt;
+&lt;p&gt;期末專題分組&lt;/p&gt;
+&lt;p&gt;打自評成績&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 8</title><link href="https://mdecadp2018.github.io/site-40623206/blog/2018-Fall-Project-Blog8.html" rel="alternate"></link><published>2018-10-29T11:00:00+08:00</published><updated>2018-10-29T11:00:00+08:00</updated><author><name>40623206</name></author><id>tag:mdecadp2018.github.io,2018-10-29:/site-40623206/blog/2018-Fall-Project-Blog8.html</id><summary type="html">&lt;p&gt;Onshape是一個雲端工具&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Onshape是一個雲端工具&lt;/p&gt;
+
+
+&lt;h2&gt;課程內容&lt;/h2&gt;
+&lt;p&gt;何謂雲端 ?&lt;/p&gt;
+&lt;p&gt;最大的特徵是有一堆伺服器&lt;/p&gt;
+&lt;p&gt;shared pools (可供共享用之眾多伺服器) of configurable computer system resources (可配置的電腦系統資源)&lt;/p&gt;
+&lt;p&gt;雲端運算 - 用多少開多少 - 用多少付多少 - 彈性高負擔少&lt;/p&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;p&gt;這週主要是完成前面的進度，了解自己所學習的進度到哪裡，並準備之後的分組專題，讓人緊張又期待&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 7</title><link href="https://mdecadp2018.github.io/site-40623206/blog/2018-Fall-Project-Blog7.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>40623206</name></author><id>tag:mdecadp2018.github.io,2018-10-22:/site-40623206/blog/2018-Fall-Project-Blog7.html</id><summary type="html">&lt;p&gt;Github發生問題&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;Github發生問題&lt;/p&gt;
 
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
 &lt;p&gt;發生github無法登入的問題，找出方法並解決和探討問題&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
-&lt;p&gt;一開始聽到同學說推了好幾次都推不上去，雖然Commits有東西，但就是沒顯示綠色的勾勾，直到聽到老師說github發生問題，才知道原來是github的問題，同時也認識到FossilSCM的能力，將資料放入雲端，能自行維護的分散式版次管理系統&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 6</title><link href="./2018-Fall-Project-Blog6.html" rel="alternate"></link><published>2018-10-15T11:00:00+08:00</published><updated>2018-10-15T11:00:00+08:00</updated><author><name>40623206</name></author><id>tag:None,2018-10-15:./2018-Fall-Project-Blog6.html</id><summary type="html">&lt;p&gt;如何升級CMSimfly倉儲中的flaskapp.py&lt;/p&gt;
+&lt;p&gt;一開始聽到同學說推了好幾次都推不上去，雖然Commits有東西，但就是沒顯示綠色的勾勾，直到聽到老師說github發生問題，才知道原來是github的問題，同時也認識到FossilSCM的能力，將資料放入雲端，能自行維護的分散式版次管理系統&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 6</title><link href="https://mdecadp2018.github.io/site-40623206/blog/2018-Fall-Project-Blog6.html" rel="alternate"></link><published>2018-10-15T11:00:00+08:00</published><updated>2018-10-15T11:00:00+08:00</updated><author><name>40623206</name></author><id>tag:mdecadp2018.github.io,2018-10-15:/site-40623206/blog/2018-Fall-Project-Blog6.html</id><summary type="html">&lt;p&gt;如何升級CMSimfly倉儲中的flaskapp.py&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;如何升級CMSimfly倉儲中的flaskapp.py&lt;/p&gt;
 
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
 &lt;p&gt;將隨身系統中的flaskapp.py改版至最新&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
-&lt;p&gt;有時候會手殘或好奇心導致排版亂掉，更新後就不怕他亂掉，任何東西都需要經過嘗試才知道結果&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 5</title><link href="./2018-Fall-Project-Blog5.html" rel="alternate"></link><published>2018-10-08T11:00:00+08:00</published><updated>2018-10-08T11:00:00+08:00</updated><author><name>40623206</name></author><id>tag:None,2018-10-08:./2018-Fall-Project-Blog5.html</id><summary type="html">&lt;p&gt;OnshapeWeek2&lt;/p&gt;
+&lt;p&gt;有時候會手殘或好奇心導致排版亂掉，更新後就不怕他亂掉，任何東西都需要經過嘗試才知道結果&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 5</title><link href="https://mdecadp2018.github.io/site-40623206/blog/2018-Fall-Project-Blog5.html" rel="alternate"></link><published>2018-10-08T11:00:00+08:00</published><updated>2018-10-08T11:00:00+08:00</updated><author><name>40623206</name></author><id>tag:mdecadp2018.github.io,2018-10-08:/site-40623206/blog/2018-Fall-Project-Blog5.html</id><summary type="html">&lt;p&gt;OnshapeWeek2&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;OnshapeWeek2&lt;/p&gt;
 
 
@@ -21,16 +37,16 @@
 &lt;p&gt;Pyslvs的介紹&lt;/p&gt;
 &lt;p&gt;OnshapeWeek2&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
-&lt;p&gt;這週開始必須了解設計意圖，一樣是畫些簡單的幾何形狀，但這次運用了尺寸與幾何約束去繪製零件，讓成品更接近自己所需要的樣子&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 4</title><link href="./2018-Fall-Project-Blog4.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>40623206</name></author><id>tag:None,2018-10-01:./2018-Fall-Project-Blog4.html</id><summary type="html">&lt;p&gt;OnshapeWeek1&lt;/p&gt;
+&lt;p&gt;這週開始必須了解設計意圖，一樣是畫些簡單的幾何形狀，但這次運用了尺寸與幾何約束去繪製零件，讓成品更接近自己所需要的樣子&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 4</title><link href="https://mdecadp2018.github.io/site-40623206/blog/2018-Fall-Project-Blog4.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>40623206</name></author><id>tag:mdecadp2018.github.io,2018-10-01:/site-40623206/blog/2018-Fall-Project-Blog4.html</id><summary type="html">&lt;p&gt;OnshapeWeek1&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;OnshapeWeek1&lt;/p&gt;
 
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
 &lt;p&gt;學期使用Onshpae並繪製簡單圖形&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
-&lt;p&gt;自己摸索過才發現跟之前用的3D軟體大同小異，雖然有些功能還不熟悉，大致上簡單的東西已經能畫出來了，但因之前都是自行設定功能的指令，在操作上有些不順暢，雖然不知道能不能自行設定，期待往後能更熟練使用他&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 3</title><link href="./2018-Fall-Project-Blog3.html" rel="alternate"></link><published>2018-09-24T11:00:00+08:00</published><updated>2018-09-24T11:00:00+08:00</updated><author><name>40623206</name></author><id>tag:None,2018-09-24:./2018-Fall-Project-Blog3.html</id><summary type="html">&lt;p&gt;中秋節&lt;/p&gt;
+&lt;p&gt;自己摸索過才發現跟之前用的3D軟體大同小異，雖然有些功能還不熟悉，大致上簡單的東西已經能畫出來了，但因之前都是自行設定功能的指令，在操作上有些不順暢，雖然不知道能不能自行設定，期待往後能更熟練使用他&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 3</title><link href="https://mdecadp2018.github.io/site-40623206/blog/2018-Fall-Project-Blog3.html" rel="alternate"></link><published>2018-09-24T11:00:00+08:00</published><updated>2018-09-24T11:00:00+08:00</updated><author><name>40623206</name></author><id>tag:mdecadp2018.github.io,2018-09-24:/site-40623206/blog/2018-Fall-Project-Blog3.html</id><summary type="html">&lt;p&gt;中秋節&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;中秋節&lt;/p&gt;
-</content><category term="2018Fall"></category></entry><entry><title>Week 2</title><link href="./2018-Fall-Project-Blog2.html" rel="alternate"></link><published>2018-09-17T11:00:00+08:00</published><updated>2018-09-17T11:00:00+08:00</updated><author><name>40623206</name></author><id>tag:None,2018-09-17:./2018-Fall-Project-Blog2.html</id><summary type="html">&lt;p&gt;領取個人倉儲&lt;/p&gt;
+</content><category term="2018Fall"></category></entry><entry><title>Week 2</title><link href="https://mdecadp2018.github.io/site-40623206/blog/2018-Fall-Project-Blog2.html" rel="alternate"></link><published>2018-09-17T11:00:00+08:00</published><updated>2018-09-17T11:00:00+08:00</updated><author><name>40623206</name></author><id>tag:mdecadp2018.github.io,2018-09-17:/site-40623206/blog/2018-Fall-Project-Blog2.html</id><summary type="html">&lt;p&gt;領取個人倉儲&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;領取個人倉儲&lt;/p&gt;
 
 
@@ -40,7 +56,7 @@
 &lt;p&gt;利用Settings裡面的Branches將master改成gh-pages&lt;/p&gt;
 &lt;p&gt;用Leo設定網站圖片外框的線粗及顏色&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
-&lt;p&gt;把每週的進度放上來，隨時掌握自己的學習進度，才不會到了學期結束卻發現什麼都沒學到，或者已經忘記前幾週所學的，妥善管理既不浪費時間還能去做其他事情&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="./2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-10:./2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+&lt;p&gt;把每週的進度放上來，隨時掌握自己的學習進度，才不會到了學期結束卻發現什麼都沒學到，或者已經忘記前幾週所學的，妥善管理既不浪費時間還能去做其他事情&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623206/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623206/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
@@ -52,7 +68,7 @@
 &lt;h2&gt;該學習哪種程式語言?&lt;/h2&gt;
 &lt;p&gt;C/C++、Python、Lua 或 Javascript?&lt;/p&gt;
 &lt;p&gt;都可以.&lt;/p&gt;
-&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 1</title><link href="./2018-Fall-Project-Blog1.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>40623206</name></author><id>tag:None,2018-09-10:./2018-Fall-Project-Blog1.html</id><summary type="html">&lt;p&gt;建立個人Github課程網站&lt;/p&gt;
+&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 1</title><link href="https://mdecadp2018.github.io/site-40623206/blog/2018-Fall-Project-Blog1.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>40623206</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623206/blog/2018-Fall-Project-Blog1.html</id><summary type="html">&lt;p&gt;建立個人Github課程網站&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;建立個人Github課程網站&lt;/p&gt;
 
 
