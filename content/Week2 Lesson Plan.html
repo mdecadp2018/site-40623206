@@ -1,0 +1,131 @@
+<!doctype html>
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>計算機程式教材</title> <link rel="stylesheet" type="text/css" href="./../static/cmsimply.css">
+
+<script type="text/javascript" src="./../static/syntaxhighlighter/shCore.js"></script>
+<script type="text/javascript" src="./../static/syntaxhighlighter/shBrushJScript.js"></script>
+<script type="text/javascript" src="./../static/syntaxhighlighter/shBrushJava.js"></script>
+<script type="text/javascript" src="./../static/syntaxhighlighter/shBrushPython.js"></script>
+<script type="text/javascript" src="./../static/syntaxhighlighter/shBrushSql.js"></script>
+<script type="text/javascript" src="./../static/syntaxhighlighter/shBrushXml.js"></script>
+<script type="text/javascript" src="./../static/syntaxhighlighter/shBrushPhp.js"></script>
+<script type="text/javascript" src="./../static/syntaxhighlighter/shBrushLua.js"></script>
+<script type="text/javascript" src="./../static/syntaxhighlighter/shBrushCpp.js"></script>
+<script type="text/javascript" src="./../static/syntaxhighlighter/shBrushCss.js"></script>
+<script type="text/javascript" src="./../static/syntaxhighlighter/shBrushCSharp.js"></script>
+<link type="text/css" rel="stylesheet" href="./../static/syntaxhighlighter/css/shCoreDefault.css"/>
+<script type="text/javascript">SyntaxHighlighter.all();</script>
+<!-- for LaTeX equations 暫時不用
+<script src="https://scrum-3.github.io/web/math/MathJax.js?config=TeX-MML-AM_CHTML" type="text/javascript"></script>
+<script type="text/javascript">
+init_mathjax = function() {
+    if (window.MathJax) {
+        // MathJax loaded
+        MathJax.Hub.Config({
+            tex2jax: {
+                inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
+            },
+            displayAlign: 'left', // Change this to 'center' to center equations.
+            "HTML-CSS": {
+                styles: {'.MathJax_Display': {"margin": 0}}
+            }
+        });
+        MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
+    }
+}
+init_mathjax();
+</script>
+-->
+<!-- 暫時不用
+<script src="./../static/fengari-web.js"></script>
+<script type="text/javascript" src="./../static/Cango-13v08-min.js"></script>
+<script type="text/javascript" src="./../static/CangoAxes-4v01-min.js"></script>
+<script type="text/javascript" src="./../static/gearUtils-05.js"></script>
+-->
+<!-- for Brython 暫時不用
+<script src="https://scrum-3.github.io/web/brython/brython.js"></script>
+<script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"></script>
+-->
+<style>
+img {
+    border:3px solid blue;
+}
+</style>
+
+<script src="./../static/jquery.js"></script>
+<script type="text/javascript">
+$(function(){
+    $("ul.topmenu> li:has(ul) > a").append('<div class="arrow-right"></div>');
+    $("ul.topmenu > li ul li:has(ul) > a").append('<div class="arrow-right"></div>');
+});
+</script>
+
+</head><header><h1>2018 Fall 40623206 分組網站</h1> <confmenu>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="sitemap.html">Site Map</a></li>
+<li><a href="./../reveal/index.html">reveal</a></li>
+<li><a href="./../blog/index.html">blog</a></li>
+
+</ul>
+</confmenu></header>
+<div class='container'><nav><ul id='css3menu1' class='topmenu'><li><a href='簡介.html'>簡介</a><ul><li><a href='CMSimfly 網站.html'>CMSimfly 網站</a><li><a href='reveal 投影片.html'>reveal 投影片</a><li><a href='pelican 網誌.html'>pelican 網誌</a></li></ul><li><a href='教學影片.html'>教學影片</a><ul><li><a href='Week1.html'>Week1</a><li><a href='Week2.html'>Week2</a><li><a href='Week3.html'>Week3</a><li><a href='Week4.html'>Week4</a><li><a href='Week5.html'>Week5</a><li><a href='Week6.html'>Week6</a><li><a href='Week7.html'>Week7</a><li><a href='Week8.html'>Week8</a><li><a href='Week9.html'>Week9</a></li></ul><li><a href='Onshape.html'>Onshape</a><ul><li><a href='OnshapeWeek1.html'>OnshapeWeek1</a><ul><li><a href='Week1 Lesson Plan.html'>Week1 Lesson Plan</a><li><a href='Week1 Homework.html'>Week1 Homework</a><li><a href='Week1 Assessment.html'>Week1 Assessment</a></li></ul><li><a href='OnshapeWeek2.html'>OnshapeWeek2</a><ul><li><a href='Week2 Lesson Plan.html'>Week2 Lesson Plan</a><li><a href='Week2 Homework.html'>Week2 Homework</a><li><a href='Week2 Assessment.html'>Week2 Assessment</a></li></ul><li><a href='OnshapeWeek3.html'>OnshapeWeek3</a><ul><li><a href='Week3 Lesson Plan.html'>Week3 Lesson Plan</a><li><a href='Week3 Homework.html'>Week3 Homework</a><li><a href='Week3 Assessment.html'>Week3 Assessment</a></li></ul><li><a href='OnshapeWeek4.html'>OnshapeWeek4</a><ul><li><a href='Week4 Lesson Plan.html'>Week4 Lesson Plan</a><li><a href='Week4 Homework.html'>Week4 Homework</a><li><a href='Week4 Assessment.html'>Week4 Assessment</a></li></ul><li><a href='OnshapeWeek5.html'>OnshapeWeek5</a><ul><li><a href='Week5 Lesson Plan.html'>Week5 Lesson Plan</a><li><a href='Week5 Homework.html'>Week5 Homework</a><li><a href='Week5 Assessment.html'>Week5 Assessment</a></li></ul><li><a href='OnshapeWeek6.html'>OnshapeWeek6</a><ul><li><a href='Week6 Lesson Plan.html'>Week6 Lesson Plan</a><li><a href='Week6 Homework.html'>Week6 Homework</a><li><a href='Week6 Assessment.html'>Week6 Assessment</a></li></ul><li><a href='OnshapeWeek7.html'>OnshapeWeek7</a><ul><li><a href='Week7 Lesson Plan.html'>Week7 Lesson Plan</a><li><a href='Week7 Homework.html'>Week7 Homework</a><li><a href='Week7 Assessment.html'>Week7 Assessment</a></li></ul><li><a href='OnshapeWeek8.html'>OnshapeWeek8</a><ul><li><a href='Week8 Lesson Plan.html'>Week8 Lesson Plan</a><li><a href='Week8 Homework.html'>Week8 Homework</a><li><a href='Week8 Assessment.html'>Week8 Assessment</a></li></ul><li><a href='OnshapeWeek9.html'>OnshapeWeek9</a><ul><li><a href='Week9 Lesson Plan.html'>Week9 Lesson Plan</a><li><a href='Week9 Homework.html'>Week9 Homework</a><li><a href='Week9 Assessment.html'>Week9 Assessment</a></li></ul><li><a href='OnshapeWeek10.html'>OnshapeWeek10</a><ul><li><a href='Week10 Lesson Plan.html'>Week10 Lesson Plan</a><li><a href='Week10 Homework.html'>Week10 Homework</a><li><a href='Week10 Assessment.html'>Week10 Assessment</a></li></ul><li><a href='OnshapeWeek11.html'>OnshapeWeek11</a><ul><li><a href='Week11 Lesson Plan.html'>Week11 Lesson Plan</a><li><a href='Week11 Homework.html'>Week11 Homework</a><li><a href='Week11 Assessment.html'>Week11 Assessment</a></li></ul><li><a href='OnshapeWeek12.html'>OnshapeWeek12</a><ul><li><a href='Week12 Lesson Plan.html'>Week12 Lesson Plan</a><li><a href='Week12 Homework.html'>Week12 Homework</a><li><a href='Week12 Assessment.html'>Week12 Assessment</a></li></li></ul></ul><li><a href='學習進度.html'>學習進度</a><ul><li><a href='W1.html'>W1</a><li><a href='W2.html'>W2</a><li><a href='W3.html'>W3</a><li><a href='W4.html'>W4</a><li><a href='W5.html'>W5</a><li><a href='W6.html'>W6</a><li><a href='W7.html'>W7</a><li><a href='W8.html'>W8</a><li><a href='W9.html'>W9</a></li></ul><li><a href='Python 手冊.html'>Python 手冊</a><li><a href='OnShape 手冊.html'>OnShape 手冊</a><li><a href='Fusion 360.html'>Fusion 360</a></li></ul></nav><section>OnshapeWeek2 << <a href='OnshapeWeek2.html'>Previous</a> <a href='Week2 Homework.html'>Next</a> >> Week2 Homework<br /><h1>Week2 Lesson Plan</h1>
+<p><a href="http://mde.tw/cadp2018./../downloads/2-1-Lesson%20Plan.pdf">2-1-Lesson Plan.pdf</a></p>
+<p><strong><span style="color: #ff0000;">介紹3D模型</span></strong></p>
+<p><img alt="" height="502" src="./../images/chrome_2018-10-30_09-22-28.png" width="600"/></p>
+<ul style="list-style-type: square;">
+<li style="text-align: left;">介紹設計意圖</li>
+<li>設定尺寸與約束</li>
+<li>自動推理</li>
+<li>繪製精確的零件</li>
+<li>草圖練習</li>
+<li>使用及建立平面</li>
+<li>建立圓角嶼倒角</li>
+<li>使用多個草圖區域</li>
+<li>基本零件</li>
+</ul>
+<ul>
+<li><strong>設計意圖　-　以時鐘當範例</strong></li>
+</ul>
+<p><img alt="" height="671" src="./../images/chrome_2018-10-30_09-34-01.png" width="600"/></p>
+<p>　無論手有多短，手始終都應該位於時鐘中心</p>
+<p><img alt="" height="242" src="./../images/chrome_2018-10-31_14-10-38.png" width="500"/></p>
+<p>　數字應該始終與鐘面的中心距離相等，如果我將其中一個數字移至靠近中心，所有數字應該更接近</p>
+<p><img alt="" height="241" src="./../images/chrome_2018-10-31_14-12-20.png" width="500"/></p>
+<p>　數字應該始終有一樣的高度，如果我使其中一個數字變大，剩下的的數字應該也要變大</p>
+<p><img alt="" height="259" src="./../images/chrome_2018-10-31_14-12-35.png" width="500"/></p>
+<ul>
+<li><strong>Dimensions &amp; Constraints in 2D Geometry (2D幾何的尺寸與約束)</strong></li>
+</ul>
+<p><img alt="" height="65" src="./../images/chrome_2018-10-30_10-28-14.png" width="500"/></p>
+<p>　隨便畫一條直線，在將線的末端拖移到原點正上方，使得線以橙色的點顯現</p>
+<p><img alt="" height="193" src="./../images/chrome_2018-10-30_09-45-44.png" style="background-color: #ffffff; color: #626262;" width="144"/></p>
+<p><img alt="" height="343" src="./../images/2018-10-30_09-47-43.gif" width="700"/></p>
+<p>　如果想要將側邊彼此相等，選擇四條線，在按上方的 " = "</p>
+<p><img alt="" height="343" src="./../images/2018-10-30_10-39-32.gif" width="700"/></p>
+<p>　如果不想將方形拖移到任何尺寸，可用尺寸約束他</p>
+<p><img alt="" height="343" src="./../images/2018-10-30_09-54-53.gif" width="700"/></p>
+<p>　畫一個原在方形旁邊並相切</p>
+<p><img alt="" height="343" src="./../images/2018-10-30_09-55-52.gif" width="700"/></p>
+<p>　如果希望圓中心點與頂點邊緣對齊，可以用水平約束</p>
+<p><img alt="" height="343" src="./../images/2018-10-30_09-57-24.gif" width="700"/></p>
+<p>　定義圓的大小</p>
+<p><img alt="" height="343" src="./../images/2018-10-30_10-02-53.gif" width="700"/></p>
+<p>　如果想看自己增加的約束可以將Show constraints的選項打勾</p>
+<p><img alt="" height="295" src="./../images/chrome_2018-10-30_10-03-56.png" width="500"/></p>
+<ul>
+<li><strong>單位</strong></li>
+</ul>
+<p><strong>　</strong>可以改長度、角度、質量的單位</p>
+<p><img alt="" height="373" src="./../images/chrome_2018-10-31_14-17-48.png" width="252"/></p>
+<p><img alt="" height="428" src="./../images/chrome_2018-10-31_14-18-20.png" width="241"/></p>
+<ul style="list-style-type: square;">
+<li>按P可以隱藏或取消隱藏平面</li>
+</ul>
+<ul>
+<li><strong>總結</strong></li>
+</ul>
+<p>　Let’s take a second to <strong>reflect</strong>(反映) what we learned in this lesson.<br/>　　1. We learned about how <strong>dimensions</strong>(尺寸) and <strong>constraints</strong>(約束) help 　　　　　                    define <strong>design intent</strong>(設計意圖).<br/>　　2. We learned how to make <strong>accurate</strong>(準確) parts using:<br/>　　　　a. different extruding options<br/>　　　　b. planes<br/>　　　　c. fillets and chamfers<br/>　　　　d. multiple sketch regions<br/>　　Next week we will learn about <strong>multi-body</strong> <strong>parts</strong>(多實體), where design intent will 　　become even more important! </p>
+<br />OnshapeWeek2 << <a href='OnshapeWeek2.html'>Previous</a> <a href='Week2 Homework.html'>Next</a> >> Week2 Homework</section></div></body></html>
