@@ -358,12 +358,71 @@
 <p>A : It allows degrees of freedom to be defined between two existing mates. Examples are<br/><strong>Gear</strong>(齒輪), <strong>Rack</strong>(齒條) &amp; <strong>Pinion</strong>(小齒輪), <strong>Screw</strong>(螺釘), and Linear.</p><h2>OnshapeWeek5</h2>
 <h3>Week5 Lesson Plan</h3>
 <p><a href="/downloads/5-1-Lesson Plan.pdf">5-1-Lesson Plan.pdf</a></p>
-<h3>Week5 Homework</h3>
+<p><strong><span style="color: #ff0000;">2D圖紙</span></strong></p>
+<p><img alt="" height="510" src="/images/p37_21-09-04.png" width="600"/></p>
+<ul style="list-style-type: square;">
+<li>工程圖紙簡介</li>
+<li>建立圖紙視圖，尺寸標註，公差，註釋</li>
+<li>使用格式/模板</li>
+<li>介紹GTOL / GD＆T</li>
+</ul>
+<ul>
+<li><strong><a href="https://cad.onshape.com/help/Content/drawings-views.htm?tocpath=Drawings%7C_____4">Views</a></strong></li>
+<li><strong>Tolerances </strong></li>
+</ul>
+<p><strong>Deviation</strong>(偏差): This allows you to type in <strong>asymmetrical</strong>(不對稱的) tolerances. For example, a popular application is shown below, which is like saying, “The nominal dimension is .380”, but if you’re going to be wrong, it can’t be any larger, it can only be less by .005” at the most.”</p>
+<p><img alt="" height="81" src="/images/p37_20-16-59.png" width="200"/></p>
+<p>Limits: This allows you to just type in the limits of the <strong>tolerance band</strong>(公差帶). This is used when you want to say something like, “I don’t care what this dimension is, as long as it is between .385 and .375, <strong>inclusive</strong>(包括在內)”</p>
+<p><img alt="" height="77" src="/images/p37_20-17-06.png" width="100"/></p>
+<p>Basic: This <strong>strips</strong>(剝離) all tolerances away from the dimension, therefore it may only be used <strong>in conjunction with</strong>(與...一起) a Geometric Dimensioning &amp; Tolerancing (GD&amp;T) Feature Reference Frame. We will discuss GD&amp;T a little bit later but for now, it is important to know it is here. Graphically, the dimension is surrounded by a rectangle:</p>
+<p><img alt="" height="90" src="/images/p37_20-17-12.png" width="142"/></p>
+<ul>
+<li><strong>View layout</strong></li>
+</ul>
+<p>This is good engineering practice; by doing so, we can know how the views are connected. You can think of it as placing the different views of the model on the corresponding faces of the View Cube and unfolding the View Cube to a flat cube layout.</p>
+<p><img alt="" height="163" src="/images/p37_20-50-40.png" width="450"/></p>
+<ul>
+<li><strong>Projected  View</strong></li>
+</ul>
+<p>Select the projected view icon and click on the existing other view that you just placed. Then click on the screen just above it (if you hover directly above the existing Right view long enough, a preview of the Top view will show up):</p>
+<ul>
+<li><strong><a class="MCDropDownHotSpot dropDownHotspot MCDropDownHotSpot_">Section view</a></strong></li>
+</ul>
+<p>Create a section view, jogged section view, or <strong>partial section view</strong>(局部剖視圖) of an existing view by placing a cutting plane line (or lines) and specifying a direction and label. Keep in mind that you are unable to create section views from: auxiliary, detail, or other section views. (By Onshape)</p>
+<ul>
+<li><strong>Auxiliary View</strong></li>
+</ul>
+<p>Auxiliary views are views which are not aligned with any of the <strong>primary</strong>(主要) (Front, Right, Top, etc) directions.</p>
+<p>Create an auxiliary view; an orthographic view that is folded out 90 degrees from a selected edge in the parent view (usually from a slanted edge). (By Onshape)</p>
+<ul>
+<li><strong>Summary</strong></li>
+</ul>
+<p>Let’s take a second to reflect what we learned in this lesson.</p>
+<p>　1. We learned that you can make Engineering Drawings by selecting “Create drawing…” in the tabs on the bottom of the screen.</p>
+<p>　2. You can add linear and angular dimensions to your Drawings.</p>
+<p>　3. You can choose to add <strong>projected</strong>(投影), <strong>section</strong>(剖面), or <strong>auxiliary</strong>(輔助) views to your Drawings.</p>
+<p>　4. Each dimension has an <strong>associated</strong>(相關) tolerance, which determines how <strong>accurate</strong>(準確) your part should be during manufacturing.</p>
+<p>　5. You can add detailed views and annotations to your Drawings.</p>
+<p>　6. Geometry Dimensioning and Tolerancing (GD&amp;T) is an advanced drawing methodthat many companies use in their Engineering Drawings.</p>
+<p>　7. You can also create Assembly Drawings.</p>
+<p>Next week, we’re going to start our first major project, the Bluetooth Speaker. Make sure to brush up on everything we’ve learned so far!</p><h3>Week5 Homework</h3>
 <p><a href="/downloads/5-2-Homework.pdf">5-2-Homework.pdf</a></p>
 <h3>Week5 Assessment</h3>
 <p><a href="/downloads/5-3-Assessment .pdf">5-3-Assessment .pdf</a></p>
 <p><a href="/downloads/5-3-Assessment (Answers).pdf">5-3-Assessment (Answers).pdf</a></p>
-<h2>OnshapeWeek6</h2>
+<p>Q : Which four views are included in the “<strong>Four View Layout</strong>(四視圖佈局)” in Onshape?</p>
+<p>A : Front, Top, Right, <strong>Isometric</strong>(等角視圖).</p>
+<p>Q : What is the difference between a Dimension and a tolerance?</p>
+<p>A : The dimension is the nominal (“perfect”) measurement of our geometry, whereas the<br/>tolerance is the acceptable <strong>variation</strong>(變化) of our geometry allowed during manufacturing.</p>
+<p>Q : Name &amp; Describe the following Dimension/Tolerance types:</p>
+<p>A : <strong>Deviation</strong>(偏差) - This communicates the allowable +/- deviation from the <strong>nominal dimension</strong>(標稱尺寸).</p>
+<p><img alt="" height="81" src="/images/p37_20-16-59.png" width="200"/><br/>      Limits - This communicates the allowable limits of the dimension (the nominal is not shown).</p>
+<p><img alt="" height="77" src="/images/p37_20-17-06.png" width="100"/><br/>     Basic - This has no tolerance, and therefore may only be used when GD&amp;T is <strong>utilized to</strong>(用來) define the tolerance range.</p>
+<p><img alt="" height="89" src="/images/p37_20-17-12.png" width="140"/></p>
+<p>Q : What is the real-world <strong>implication</strong>(含義) of changing a standard dimension on an engineering print from “1.750” to “1.75”?</p>
+<p>A : It means that we are changing the tolerance to a “looser” one (wider allowable range) as defined by the tolerance block in the drawing format.</p>
+<p>Q : Do Onshape drawing views update automatically? Why or why not?</p>
+<p>A : No they do not, as this gives the designer control whether they want the drawing to<br/>reflect the latest design or not. It is a form of <strong>revision</strong>(調整) control, since Onshape does not<br/>have (or need) a formal PDM system.</p><h2>OnshapeWeek6</h2>
 <h3>Week6 Lesson Plan</h3>
 <p><a href="/downloads/6-0-Special Instructions for Week 6.pdf">6-0-Special Instructions for Week 6.pdf</a></p>
 <p><a href="/downloads/6-1-Lesson Plan (Student A).pdf">6-1-Lesson Plan (Student A).pdf</a></p>
