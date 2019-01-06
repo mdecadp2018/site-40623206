@@ -24,32 +24,29 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11"><vh>Week1</vh>
-<v t="leo.20180827201621.12"><vh>w1</vh></v>
+<v t="leo.20180827201621.11" a="E"><vh>Week1-3</vh>
+<v t="leo.20180827201621.12"><vh>w1~w3</vh></v>
 </v>
-<v t="leo.20181104213127.1"><vh>Week2</vh>
-<v t="leo.20181104213127.2"><vh>w2</vh></v>
+<v t="leo.20181104213127.1" a="E"><vh>Week4-5</vh>
+<v t="leo.20181104213127.2"><vh>w4~w5</vh></v>
 </v>
-<v t="leo.20181104213132.1"><vh>Week3</vh>
-<v t="leo.20181104213132.2"><vh>w3</vh></v>
+<v t="leo.20181104213132.1" a="E"><vh>Week6-9</vh>
+<v t="leo.20181104213132.2"><vh>w6~w9</vh></v>
 </v>
-<v t="leo.20181104213137.1"><vh>Week4</vh>
-<v t="leo.20181104213137.2"><vh>w4</vh></v>
+<v t="leo.20181104213137.1" a="E"><vh>Week10-12</vh>
+<v t="leo.20181104213137.2"><vh>w10~w12</vh></v>
 </v>
-<v t="leo.20181104213139.1"><vh>Week5</vh>
-<v t="leo.20181104213139.2"><vh>w5</vh></v>
+<v t="leo.20181104213139.1" a="E"><vh>Week13-15</vh>
+<v t="leo.20181104213139.2"><vh>w13~w15</vh></v>
 </v>
-<v t="leo.20181104213140.1"><vh>Week6</vh>
-<v t="leo.20181104213140.2"><vh>w6</vh></v>
+<v t="leo.20181104213140.1" a="E"><vh>Week16</vh>
+<v t="leo.20181104213140.2"><vh>w16</vh></v>
 </v>
-<v t="leo.20181104213142.1"><vh>Week7</vh>
-<v t="leo.20181104213142.2"><vh>w7</vh></v>
+<v t="leo.20181104213142.1" a="E"><vh>Week17</vh>
+<v t="leo.20181104213142.2"><vh>w17</vh></v>
 </v>
-<v t="leo.20181104213143.1"><vh>Week8</vh>
-<v t="leo.20181107210956.1"><vh>Week8</vh></v>
-</v>
-<v t="leo.20181107211050.1" a="E"><vh>Week9</vh>
-<v t="leo.20181107211050.2"><vh>Week9</vh></v>
+<v t="leo.20181107211050.1" a="E"><vh>Week18</vh>
+<v t="leo.20181107211050.2"><vh>summary</vh></v>
 </v>
 <v t="leo.20181104213114.1"><vh>快捷鍵</vh>
 <v t="leo.20181104213114.2"><vh>投影片快捷鍵</vh></v>
@@ -172,12 +169,11 @@ Created by [40623206](https://mdecadp2018.github.io/site-40623206/blog/index.htm
 
 						
 </t>
-<t tx="leo.20180827201621.12"># Week1
+<t tx="leo.20180827201621.12"># Week1~Week3
 
-* What is Onshape ?
-* Why Onshape ?
-* 如何利用 p37 中的 git 建立個人的 Github Pages 網站
-</t>
+* 學習利用倉儲維護網站
+* 修改網站內容
+* 利用Leo將網站圖片加框，並改粗細及顏色</t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -377,12 +373,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181104213127.2"># Week2
+<t tx="leo.20181104213127.2"># Week4~Week5
 
-* ShareX的取圖設定
-* 領取個人倉儲
-* Leo設定網站圖片外框的縣粗及顏色
-
+* 學習如何使用Onshape繪製模型
 </t>
 <t tx="leo.20181104213132.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -393,9 +386,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181104213132.2"># Week3
+<t tx="leo.20181104213132.2"># Week6~Week9
 
-* 中秋節
+* 利用flaskapp.py讓網站左邊的大綱更新至最新版本
+* 確認自己的進度
+* 實施6個人一組的分組
 
 </t>
 <t tx="leo.20181104213137.1">&lt;section data-markdown&gt;
@@ -407,12 +402,10 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181104213137.2"># Week4
+<t tx="leo.20181104213137.2"># Week10~Week12
 
-* 學期使用Onshpae並繪製簡單圖形
-* OnshapeWeek1
-
-</t>
+* Onshape教學
+* 學習如何在特定圖片加邊框</t>
 <t tx="leo.20181104213139.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -422,10 +415,10 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181104213139.2"># Week5
+<t tx="leo.20181104213139.2"># Week13~Week15
 
-* Pyslvs的介紹
-* OnshapeWeek2
+* 學習利用Pandoc在Leo編輯期末報告
+* 學習如何將Markdown資料轉成PDF
 </t>
 <t tx="leo.20181104213140.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -438,9 +431,7 @@ make.start()
 </t>
 <t tx="leo.20181104213140.2"># Week6
 
-* 將隨身系統中的flaskapp.py改版至最新
-* 身為工程師，不只要會解答，還要會問問題
-
+* 學習如何使用V-rep
 </t>
 <t tx="leo.20181104213142.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -451,24 +442,10 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181104213142.2"># Week7
+<t tx="leo.20181104213142.2"># Week17
 
-* 發生github無法登入的問題，找出方法並解決和探討問題
-* 如何利用 Github 近端與區域網路中的 Fossil SCM， 保全輔助設計的資料
-
-</t>
-<t tx="leo.20181104213143.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181107210956.1"># Week8
-
-* 說明機電資整合設計專案流程所需的相關套件運用與技術</t>
+* 解決PDF大部分的問題並順利完成報告
+* 學習如何在投影片放圖片</t>
 <t tx="leo.20181107211050.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -478,9 +455,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181107211050.2"># Week9
+<t tx="leo.20181107211050.2"># Summary
 
-* 期末專題分組
-* 自評成績</t>
+這學期快結束了，從開學到現在，學習了不少東西，也發現很多東西是要大家一起討論才能解決的，然而我只是提供意見，並沒有做什麼事。總覺得時間很多，可以慢慢來，其實拖著拖著，越積越多，到最後什麼也沒做好，雖然覺得很難，但還是盡力去完成
+</t>
 </tnodes>
 </leo_file>
