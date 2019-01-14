@@ -21,8 +21,23 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190114213632.1" a="E"><vh>week1 note</vh>
+<v t="leo.20190114213632.2"><vh>note1</vh></v>
+</v>
+<v t="leo.20190114213637.1" a="E"><vh>week2 note</vh>
+<v t="leo.20190114213637.2"><vh>note2</vh></v>
+</v>
+<v t="leo.20190114213640.1" a="E"><vh>week4 note</vh>
+<v t="leo.20190114213640.2"><vh>note4</vh></v>
+</v>
+<v t="leo.20190114213643.1" a="E"><vh>week5 note</vh>
+<v t="leo.20190114213643.2"><vh>note5</vh></v>
+</v>
+<v t="leo.20190114213648.1" a="E"><vh>week6 note</vh>
+<v t="leo.20190114213648.2"><vh>note6</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>Week1-3</vh>
 <v t="leo.20180827201621.12"><vh>w1~w3</vh></v>
@@ -173,7 +188,9 @@ Created by [40623206](https://mdecadp2018.github.io/site-40623206/blog/index.htm
 
 * 學習利用倉儲維護網站
 * 修改網站內容
-* 利用Leo將網站圖片加框，並改粗細及顏色</t>
+* 利用Leo將網站圖片加框，並改粗細及顏色
+
+</t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -405,7 +422,9 @@ make.start()
 <t tx="leo.20181104213137.2"># Week10~Week12
 
 * Onshape教學
-* 學習如何在特定圖片加邊框</t>
+* 學習如何在特定圖片加邊框
+
+</t>
 <t tx="leo.20181104213139.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -445,7 +464,9 @@ make.start()
 <t tx="leo.20181104213142.2"># Week17
 
 * 解決PDF大部分的問題並順利完成報告
-* 學習如何在投影片放圖片</t>
+* 學習如何在投影片放圖片
+
+</t>
 <t tx="leo.20181107211050.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -459,5 +480,65 @@ make.start()
 
 這學期快結束了，從開學到現在，學習了不少東西，也發現很多東西是要大家一起討論才能解決的，然而我只是提供意見，並沒有做什麼事。總覺得時間很多，可以慢慢來，其實拖著拖著，越積越多，到最後什麼也沒做好，雖然覺得很難，但還是盡力去完成
 </t>
+<t tx="leo.20190114213632.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190114213632.2">Week 1 Note
+
+&lt;img src="https://github.com/mdecadp2018/site-40623206/blob/gh-pages/reveal/picture/week1.jpg?raw=true"  height="500" width="400"&gt;</t>
+<t tx="leo.20190114213637.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190114213637.2">Week 2 Note
+
+&lt;img src="https://github.com/mdecadp2018/site-40623206/blob/gh-pages/reveal/picture/week2.jpg?raw=true"  height="500" width="400"&gt;</t>
+<t tx="leo.20190114213640.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190114213640.2">Week 4 Note
+
+&lt;img src="https://github.com/mdecadp2018/site-40623206/blob/gh-pages/reveal/picture/week4.jpg?raw=true"  height="500" width="400"&gt;</t>
+<t tx="leo.20190114213643.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190114213643.2">Week 5 Note
+
+&lt;img src="https://github.com/mdecadp2018/site-40623206/blob/gh-pages/reveal/picture/week5.jpg?raw=true"  height="500" width="400"&gt;</t>
+<t tx="leo.20190114213648.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190114213648.2">Week 6 Note
+
+&lt;img src="https://github.com/mdecadp2018/site-40623206/blob/gh-pages/reveal/picture/week6.jpg?raw=true"  height="500" width="400"&gt;</t>
 </tnodes>
 </leo_file>
